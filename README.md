@@ -1,6 +1,8 @@
 # Quarkus GraphQL Reactive Pool Reproducer
 
-A small repoducer for issue with SQL connections pool with hibernate reactive and panache with GraphQL.
+A repoducer for issue with SQL connections pool with hibernate reactive and panache with GraphQL.
+
+Used in issue [https://github.com/quarkusio/quarkus/issues/21111](https://github.com/quarkusio/quarkus/issues/21111).
 
 ## Steps to reproduce
 
